@@ -1,1 +1,9 @@
 my first git file..
+Git to file
+  git clone pathname
+  git pull(made any changes will update)  
+File(VS code to git)
+  git add (file_name)
+  git commit -m "Created File"
+  git status
+  git push orgin main
